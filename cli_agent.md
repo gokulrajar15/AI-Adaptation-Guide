@@ -7,6 +7,9 @@ Command Line Interface (CLI) agents are powerful AI-powered tools that bring the
 ### 1. Gemini CLI
 Google's open-source AI agent that brings Gemini's capabilities to your terminal.
 
+Example prompt:
+```Set up the latest Rust language set up into my system and run a hello world program.```
+
 **Key Features:**
 - Free tier: 60 requests/min, 1,000 requests/day
 - Gemini 2.5 Pro with 1M token context window

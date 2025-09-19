@@ -32,7 +32,7 @@ Copilot integrates a range of helpful tools to enhance productivity:
   - *Example*: Analyze UI mockups and generate corresponding code
   - ![Sample UI](images/sample_ui.png)
 - **Web Search**: Search the web for relevant code examples or solutions (Note: Limited by model's knowledge cutoff)
-  - *Example*: Find latest API documentation or best practices
+  - *Example*: Setting up a latest tailwind css setup
 - **MCP Servers**: Manage and interact with your development environment
   - MCP markets
   - Custom MCP integration
