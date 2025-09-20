@@ -15,13 +15,19 @@ GitHub Copilot Chat provides an interactive interface where you can communicate 
 - **Model Selection**: Choose between different AI models (e.g., GPT, Gemini, Claude, etc.)
 - **Voice Input**: Use voice commands to interact with Copilot (if supported)
 
+**Reference**: https://code.visualstudio.com/docs/copilot/chat/copilot-chat
+
 ### Modes of Interaction
 
-- **Ask**: You can ask questions directly to Copilot in the chat interface
-- **Edit**: If you don't like the initial suggestion, you can edit or refine the response
+- **Ask**: You can ask questions directly to Copilot in the chat interface  
+  **Reference**: https://code.visualstudio.com/docs/copilot/chat/chat-ask-mode
+- **Edit**: If you don't like the initial suggestion, you can edit or refine the response  
+  **Reference**: https://code.visualstudio.com/docs/copilot/chat/copilot-edits
 - **Agent**: Copilot can act as an AI agent, ready to help you with coding tasks, generating code, answering questions, and more
   - Accept and undo the changes
   - Reverting checkpoints
+  
+  **Reference**: https://code.visualstudio.com/docs/copilot/chat/chat-agent-mode
 
 
 ### Tools Available
@@ -37,10 +43,13 @@ Copilot integrates a range of helpful tools to enhance productivity:
   - MCP markets
   - Custom MCP integration
   - List MCP and MCP integrations
+  
+  **Reference**: https://docs.github.com/en/copilot/how-tos/provide-context/use-mcp
   - *Example*: Connect to databases, external services, or development tools
 - **Source Control**: Integrated with version control systems, Copilot helps track changes and manage code
   - *Example*: Generate commit messages, review diffs, and suggest improvements
-- **Custom Instructions**: Access via Copilot Settings or Command Palette → "New instructions file"
+- **Custom Instructions**: Access via Copilot Settings or Command Palette → "New instructions file"  
+  **Reference**: https://docs.github.com/en/copilot/how-tos/configure-custom-instructions
 ---
 
 ## 2. Auto Completion (Ghost Text)
@@ -89,6 +98,9 @@ GitHub Copilot can automatically complete your code as you type, providing sugge
 - **GitHub Integration**: Direct PR review assistance
 - **Quality Assurance**: Ensures your PRs align with standards and improves code quality
 
+
+**Reference**: https://docs.github.com/en/copilot/how-tos/use-copilot-agents/request-a-code-review/configure-automatic-review
+
 ### Commit Message Generator
 Automatically generates meaningful commit messages based on your code changes.
 
@@ -111,6 +123,7 @@ The Copilot Coding Agent can work autonomously in the background, much like a hu
 ### Adding Custom Instructions to Your Repository
 You can personalize Copilot's behavior by adding custom instructions directly to your repository, ensuring that it adapts to your project's specific needs and coding standards.
 
+**Reference**: https://docs.github.com/en/copilot/how-tos/use-copilot-agents/coding-agent
 ---
 
 ## 🎯 Quick Reference

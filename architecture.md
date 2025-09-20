@@ -24,6 +24,7 @@
 
 You can leverage **Google Gemini** to generate Mermaid code for your architecture diagrams, which can then be imported directly into **draw.io** to create professional diagrams.
 
+**Reference**: https://www.drawio.com/
 #### Workflow:
 1. **Describe your architecture** to Gemini in natural language
 2. **Ask Gemini to generate Mermaid code** for the architecture
