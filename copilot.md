@@ -45,6 +45,9 @@ Copilot integrates a range of helpful tools to enhance productivity:
   - List MCP and MCP integrations
   
   **Reference**: https://docs.github.com/en/copilot/how-tos/provide-context/use-mcp
+
+  **Reference**: https://github.com/modelcontextprotocol/servers
+
   - *Example*: Connect to databases, external services, or development tools
 - **Source Control**: Integrated with version control systems, Copilot helps track changes and manage code
   - *Example*: Generate commit messages, review diffs, and suggest improvements
