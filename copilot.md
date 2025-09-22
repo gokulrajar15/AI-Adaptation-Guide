@@ -48,6 +48,8 @@ Copilot integrates a range of helpful tools to enhance productivity:
 
   **Reference**: https://github.com/modelcontextprotocol/servers
 
+  **You tube**: https://www.youtube.com/watch?v=qdV1lRZjRc4
+
   - *Example*: Connect to databases, external services, or development tools
 - **Source Control**: Integrated with version control systems, Copilot helps track changes and manage code
   - *Example*: Generate commit messages, review diffs, and suggest improvements
