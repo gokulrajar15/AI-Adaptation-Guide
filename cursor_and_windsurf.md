@@ -9,7 +9,7 @@ This guide compares two popular AI-assisted development environments: Cursor and
 An AI-assisted code editor/IDE made by Anysphere. It's based on Visual Studio Code with added AI features.
 
 **Links:**
-- [Cursor Official Website](https://cursor.com/)
+- [Cursor Official Website](https://cursor.com)
 
 
 ### Key Features
@@ -40,7 +40,7 @@ An AI-assisted code editor/IDE made by Anysphere. It's based on Visual Studio Co
 An AI-native IDE made by Codeium. Designed to help developers stay in "flow". Available on Mac, Windows, and Linux.
 
 **Links:**
-- [Windsurf Official Website](https://windsurf.com/)
+- [Windsurf Official Website](https://windsurf.com)
 
 
 ### Key Features
